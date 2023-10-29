@@ -1,6 +1,8 @@
 {
     "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 79,
     },
     "python.formatting.provider": "none"
 }
